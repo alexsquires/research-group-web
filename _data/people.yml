@@ -1,115 +1,48 @@
+Ben:
+    display_name: "Ben Morgan" 
+    github: 
+    role: pi
+    #image: 
+    bio: The Boss Man
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
+Conn:
+    display_name: "Conn O'Rourke"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     github: wolverine
     role: postdoc
 
-storm:
-    display_name: "Storm"
+Rana:
+    display_name: "Rana Islam"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+    role: postdoc
+    #image: /img/people/storm.png
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+Lucy:
+    display_name: "Lucy Morgan (no relation)"
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: postdoc
+    #image: /img/people/storm.png
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
+Dan:
+    display_name: "Dan Davies (Visitor)"
+    #webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: postdoc
+    #image: /img/people/storm.png
 
-grad-c:
-    display_name: "Grad C"
-    role: grad
+Georgie:
+    display_name: "Georgie Wellock"
+    role: phd
 
-grad-d:
-    display_name: "Grad D"
-    role: grad
+Alex:
+    display_name: "Alex Squires"
+    role: phd
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
+Jacob:
+    display_name: "Jacob Dean"
+    role: phd
 
 alum-d:
     display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
     role: alum
 
 collab-a:

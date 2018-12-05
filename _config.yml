@@ -1,4 +1,4 @@
-name: Awesome Research Group
+name: The Morgan Group
 url: http://awesome.example.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -11,14 +11,14 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-  - key: faculty
-    name: Faculty
+  - key: pi
+    name: PI
   - key: staff
     name: Staff
   - key: postdoc
     name: Researchers
-  - key: grad
-    name: Graduate Students
+  - key: phd
+    name: PhD Students
   - key: ugrad
     name: Undergraduate Students
   - key: ugrad-alum
